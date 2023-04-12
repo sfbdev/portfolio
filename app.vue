@@ -19,7 +19,7 @@ const images = import.meta.glob("./assets/pageMeta/*.{png,svg,ico}", {
 });
 
 useHead({
-  title: "Aniket Kotal - Full Stack Web Developer",
+  title: "Sefik Furkan Bayram - Frontend Developer",
   link: [
     {
       rel: "icon",
@@ -46,23 +46,23 @@ useHead({
     },
     {
       property: "og:title",
-      content: "Aniket Kotal - Full Stack Web Developer",
+      content: "Sefik Furkan Bayram - Frontend Developer",
     },
     {
       property: "twitter:title",
-      content: "Aniket Kotal - Full Stack Web Developer",
+      content: "Sefik Furkan Bayram - Frontend Developer",
     },
     {
       name: "description",
-      content: "Web Developer designing Beautiful, Intuitive Websites",
+      content: "Frontend Developer designing beautiful, intuitive web & mobile apps.",
     },
     {
       name: "og:description",
-      content: "Web Developer designing Beautiful, Intuitive Websites",
+      content: "Frontend Developer designing beautiful, intuitive web & mobile apps.",
     },
     {
       name: "twitter:description",
-      content: "Web Developer designing Beautiful, Intuitive Websites",
+      content: "Frontend Developer designing beautiful, intuitive web & mobile apps.",
     },
   ],
 });
