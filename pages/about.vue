@@ -3,7 +3,7 @@
     <NuxtLayout name="page">
       <img :src="TopImage" class="w-full h-28 rounded-xl object-cover" />
       <div class="flex flex-col gap-6 lg:gap-9 mx-auto w-full md:w-10/12 mt-4">
-        <a href="https://sfb.dev/policies?code=furkanbayram" style="margin-top: 400px;">test</a>
+        <a href="https://sfb.dev/policies?code=furkanbayram" style="margin-top: 1000px;">test</a>
         <SectionParagraph>
           I'm Aniket Kotal, an India based Vue.js developer/Student @ Parul
           University, with never-stopping love for learning new tech. I am
